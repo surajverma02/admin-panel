@@ -1,13 +1,12 @@
-import Dashboard from "./components/Dashboard"
+import Navbar from "./pages/Navbar";
 
 function App() {
-  const name = "Suraj"
-
   return (
     <>
-    <Dashboard />
+    <Navbar />
+    <h1>Hello</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
