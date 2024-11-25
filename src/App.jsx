@@ -6,6 +6,7 @@ import Video from "./pages/Video";
 import Contact from "./pages/Contact";
 
 function App() {
+
   return (
     <>
     <Navbar />
